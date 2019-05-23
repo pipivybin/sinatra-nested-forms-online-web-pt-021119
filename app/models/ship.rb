@@ -11,7 +11,7 @@ def initialize(hash)
 end
 
 def self.all
-
+  @@ships
 end
 
 def self.clear
