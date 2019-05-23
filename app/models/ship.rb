@@ -8,5 +8,6 @@ def initialize(hash)
   @booty = hash[:booty]
 end
 
+def self.clear
 
 end
