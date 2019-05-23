@@ -17,3 +17,5 @@ end
 def self.clear
   @@ships.clear
 end
+
+end
