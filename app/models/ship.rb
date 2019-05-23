@@ -15,5 +15,5 @@ def self.all
 end
 
 def self.clear
-
+  @@ships.clear
 end
