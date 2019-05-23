@@ -7,6 +7,7 @@ def initialize(hash)
   @name = hash[:name]
   @type = hash[:type]
   @booty = hash[:booty]
+  Ship.all << self
 end
 
 def self.clear
