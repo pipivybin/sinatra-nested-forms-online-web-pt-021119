@@ -10,6 +10,10 @@ def initialize(hash)
   Ship.all << self
 end
 
+def self.all
+
+end
+
 def self.clear
 
 end
